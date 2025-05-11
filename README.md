@@ -63,5 +63,3 @@ Run the compiled program on the target
 - script will retry to connect every 20 seconds
 
 - Interactive with /bin/bash shell
-
-## Python version
